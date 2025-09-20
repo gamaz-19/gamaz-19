@@ -1,3 +1,5 @@
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=000828&text=MARIA%20ALEJANDRA%20GOMEZ%20ARCHILA%&reversal=true&section=header&fontAlign=50&fontColor=ffffff&textBg=false&fontSize=35&fontAlignY=27&desc=|%20🖳%20➕%20☕︎%20=%20💡%20|%20&&animation=fadeIn&descAlign=50&descAlignY=49" alt="Maria Gomez" /> </div>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
