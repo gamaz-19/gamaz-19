@@ -1,4 +1,5 @@
-[🇪🇸 Leer en Español](./README.es.md)
+[🇬🇧 Read in English](./README.md)
+
 
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&reversal=true&text=Maria%20Alejandra%20Gomez%20Archila&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=29&stroke=-&animation=fadeIn&desc=%F0%9F%92%BB%20%EF%B9%A0%EF%B9%A0%20%E2%98%95%20=%F0%9F%92%A1%20+%20&descSize=25&descAlign=50&descAlignY=60&textBg=false&color=gradient" alt="Maria Gomez"/>
@@ -6,13 +7,13 @@
 
 <br clear="both">
 
-<h4 align="center">Sugar, spice, and everything nice.<br>These were the ingredients chosen to create a great software developer!</h4>
+<h4 align="center">Azúcar, flores y muchos colores,<br>estos fueron los ingredientes elegidos para crear a una gran programadora!</h4>
 
 ###
 
 <br clear="both">
 
-<h1 align="center">__Hi there!__<br>This is Aleja</h1>
+<h1 align="center">__Hola!__<br>Soy Aleja</h1>
 
 ###
 
@@ -20,11 +21,11 @@
 
 ###
 
-<h3 align="left">About Me</h3>
+<h3 align="left">Sobre MI</h3>
 
 ###
 
-<p align="left">-  I’m studying software engineering<br>-  I'm continuously learning new things like new languages, study methods and different activities<br>-  In my free time I like doing arts and crafts</p>
+<p align="left">-  Estoy estudiando ingenieria de sistemas<br>-  Constantemente me gusta aprender cosas nuevas, como otros idiomas, metodos nuevos de estudio y entre otras actividades<br>-  En mi tiempo de ocio me gusta hacer manualidades y pintar</p>
 
 ###
 
@@ -64,21 +65,21 @@
 
 ###
 
-<h3 align="left">Best projects!</h3>
+<h3 align="left">Proyectos destacados!</h3>
 
 ###
 
-<p align="left">-Campus_Music System — MongoDB<br>Database implementation in MongoDB: efficient data organization for a music school. — [Repository]<br>-KARIO Media — HTML/CSS.<br>Front-end prototype in HTML/CSS for project management.  —  [Repository]</p>
+<p align="left">-Sistema Campus_Music — MongoDB.<br>Implementación de base de datos en MongoDB: organización eficiente de datos para una escuela de música. — [Repositorio]<br>-KARIO Media — HTML/CSS.<br>Prototipo front-end en HTML/CSS para gestión de proyectos.  — [Repositorio]</p>
 
 ###
 
-<h3 align="left">My Stats :</h3>
+<h3 align="left">Mis Estadisticas:</h3>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gamaz-19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="250" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gamaz-19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=gamaz-19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gamaz-19&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
