@@ -6,11 +6,20 @@
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-alejandra-gomez-archila-873340373)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
-  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maga1731@gmail.com)
-  
+  <a href="https://www.linkedin.com/in/maria-alejandra-gomez-archila-873340373" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://tu-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="mailto:maga1731@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
 </div>
+
 
 ---
 
