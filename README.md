@@ -251,7 +251,7 @@ Have a project in mind? Want to collaborate? Let's talk!
 
 ##  Quote That Inspires Me
 
-> "Walk forward. Don't give up. Learn from your mistakes and **Keep moving forward**"
+> " Don't give up. Learn from your mistakes and **Keep moving forward**"
 
 ---
 
