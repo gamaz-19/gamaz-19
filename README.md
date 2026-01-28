@@ -5,18 +5,10 @@
 </div>
 
 <div align="center">
-  
-  <a href="https://www.linkedin.com/in/maria-alejandra-gomez-archila-873340373" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 
-  <a href="https://tu-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <a href="mailto:maga1731@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-alejandra-gomez-archila-873340373)    
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio-url)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maga1731@gmail.com)
 
 </div>
 
@@ -60,9 +52,9 @@ const aleja = {
 </div>
 
 ### Frameworks & Libraries
-<div align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+
 </div>
 
 ### Databases
@@ -78,7 +70,6 @@ const aleja = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
 </div>
 
@@ -249,10 +240,10 @@ I love collaborating on open source projects and working in teams. If you have a
 
 Have a project in mind? Want to collaborate? Let's talk!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Write_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_Me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-alejandra-gomez-archila-873340373)    
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio-url)
+  [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maga1731@gmail.com)
 
 </div>
 
@@ -260,7 +251,7 @@ Have a project in mind? Want to collaborate? Let's talk!
 
 ##  Quote That Inspires Me
 
-> "Keep moving forward. Don't give up. Learn from your mistakes and **walk forward**"
+> "Walk forward. Don't give up. Learn from your mistakes and **Keep moving forward**"
 
 ---
 

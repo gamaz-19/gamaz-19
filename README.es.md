@@ -70,7 +70,6 @@ const aleja = {
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
 </div>
 
@@ -242,10 +241,9 @@ Me encanta colaborar en proyectos open source y trabajar en equipo. Si tienes un
 
 ¿Tienes un proyecto en mente? ¿Quieres colaborar? ¡Hablemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](tu-linkedin-url)
-[![Email](https://img.shields.io/badge/Email-Escríbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Sígueme-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](tu-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visita-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](tu-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-alejandra-gomez-archila-873340373)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio-url)
+[![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maga1731@gmail.com)
 
 </div>
 
