@@ -7,7 +7,7 @@
 <div align="center">
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-alejandra-gomez-archila-873340373)    
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio-url)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gamaz-19.github.io/Portfolio_GomezMaria/)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maga1731@gmail.com)
 
 </div>
@@ -242,7 +242,7 @@ Have a project in mind? Want to collaborate? Let's talk!
 
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-alejandra-gomez-archila-873340373)    
-  [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio-url)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gamaz-19.github.io/Portfolio_GomezMaria/)
   [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maga1731@gmail.com)
 
 </div>

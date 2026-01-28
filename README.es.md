@@ -7,7 +7,7 @@
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-alejandra-gomez-archila-873340373)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gamaz-19.github.io/Portfolio_GomezMaria/)
 [![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maga1731@gmail.com)
 
 </div>
@@ -242,7 +242,7 @@ Me encanta colaborar en proyectos open source y trabajar en equipo. Si tienes un
 ¿Tienes un proyecto en mente? ¿Quieres colaborar? ¡Hablemos!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectemos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-alejandra-gomez-archila-873340373)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Ver_Proyectos-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gamaz-19.github.io/Portfolio_GomezMaria/)
 [![Email](https://img.shields.io/badge/Email-Contacto-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maga1731@gmail.com)
 
 </div>
